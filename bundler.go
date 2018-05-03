@@ -14,11 +14,11 @@ import (
 	"time"
 
 	"github.com/akavel/rsrc/rsrc"
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/os"
-	"github.com/asticode/go-astitools/zip"
-	"github.com/asticode/go-bindata"
+	"github.com/hkloudou/go-astilectron"
+	"github.com/hkloudou/go-astilog"
+	"github.com/hkloudou/go-astitools/os"
+	"github.com/hkloudou/go-astitools/zip"
+	"github.com/hkloudou/go-bindata"
 	"github.com/pkg/errors"
 )
 
