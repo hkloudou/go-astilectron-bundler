@@ -3,28 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="73d45dbb-487a-48ab-bbc7-6821d09e1228" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/Gopkg.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gopkg.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/astilectron.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/dispatcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/display.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/display_pool.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/event.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/helper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/identifier.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/menu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/menu_item.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/object.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/paths.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/provisioner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/rectangle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/sub_menu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/tray.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/window.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/asticode/go-astilectron/writer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/astilectron.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/dispatcher.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/display.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/display_pool.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/event.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/helper.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/identifier.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/menu.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/menu_item.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/object.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/paths.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/provisioner.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/reader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/rectangle.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/sub_menu.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/tray.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/window.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/writer.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
