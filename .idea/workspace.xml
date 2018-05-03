@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d45dbb-487a-48ab-bbc7-6821d09e1228" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gopkg.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gopkg.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/astilectron.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/dispatcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/display.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/display_pool.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/event.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/helper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/identifier.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/menu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/menu_item.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/object.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/paths.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/provisioner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/rectangle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/sub_menu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/tray.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/window.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/hkloudou/go-astilectron/writer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astilectron-bundler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/astilectron-bundler/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,20 +18,17 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/astilectron-bundler/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-              <folding>
-                <element signature="e#14#230#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundler.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bundler.go">
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -59,13 +36,24 @@
       <file leaf-file-name="provisioner.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/provisioner.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state>
+              <caret column="19" selection-start-column="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#21#87#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>astibundler</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -82,9 +70,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/astilectron-bundler/main.go" />
         <option value="$PROJECT_DIR$/bundler.go" />
         <option value="$PROJECT_DIR$/provisioner.go" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/astilectron-bundler/main.go" />
       </list>
     </option>
   </component>
@@ -98,8 +87,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="547" />
-    <option name="y" value="59" />
+    <option name="x" value="195" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -108,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,11 +114,15 @@
               <item name="go-astilectron-bundler" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="go-astilectron-bundler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.10" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,13 +159,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="547" y="59" width="1400" height="757" extended-state="0" />
+    <frame x="195" y="23" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848485" visible="true" weight="0.26067746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848485" visible="true" weight="0.26435935" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.34065935" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32810047" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
@@ -185,7 +180,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,11 +191,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/astilectron-bundler/main.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bundler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provisioner.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#21#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/astilectron-bundler/main.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#14#230#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -242,18 +257,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/provisioner.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state>
+          <caret column="19" selection-start-column="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#21#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/astilectron-bundler/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding>
-            <element signature="e#14#230#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
