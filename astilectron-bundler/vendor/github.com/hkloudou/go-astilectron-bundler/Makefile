@@ -5,5 +5,5 @@ git:
 	@make push
 push:
 	git push origin master -f --tags
-build:
+install:
 	go install  ./astilectron-bundler

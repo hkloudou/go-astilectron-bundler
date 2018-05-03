@@ -22,7 +22,7 @@
 [[projects]]
   name = "github.com/hkloudou/go-astilectron-bundler"
   packages = ["."]
-  revision = "15d0da319ece779bd46474931c7f45d5d7ec743a"
+  revision = "eb60ee1cc3f7600dac69d1b26805355755870b51"
   version = "2.0.1"
 
 [[projects]]
@@ -50,8 +50,8 @@
 [[projects]]
   name = "github.com/hkloudou/go-bindata"
   packages = ["."]
-  revision = "bbd0c6e271208dce66d8fda4bc536453cd27fc4a"
-  version = "v3.0.7"
+  revision = "3346bcf62c3b5a72cb54f3d626eaf77d3a34874b"
+  version = "2.0.1"
 
 [[projects]]
   name = "github.com/julienschmidt/httprouter"
