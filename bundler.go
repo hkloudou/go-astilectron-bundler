@@ -18,7 +18,7 @@ import (
 	"github.com/hkloudou/go-astilog"
 	"github.com/hkloudou/go-astitools/os"
 	"github.com/hkloudou/go-astitools/zip"
-	bindata "github.com/jteeuwen/go-bindata"
+	bindata "github.com/hkloudou/go-bindata"
 	"github.com/pkg/errors"
 )
 

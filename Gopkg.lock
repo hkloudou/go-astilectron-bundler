@@ -42,7 +42,7 @@
   version = "2.0.1"
 
 [[projects]]
-  name = "github.com/jteeuwen/go-bindata"
+  name = "github.com/hkloudou/go-bindata"
   packages = ["."]
   revision = "bbd0c6e271208dce66d8fda4bc536453cd27fc4a"
   version = "v3.0.7"
