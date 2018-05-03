@@ -2,6 +2,18 @@
 
 
 [[projects]]
+  branch = "master"
+  name = "github.com/akavel/rsrc"
+  packages = [
+    "binutil",
+    "coff",
+    "ico",
+    "internal",
+    "rsrc"
+  ]
+  revision = "f6a15ece2cfd2560077c556499f19340ddc768e9"
+
+[[projects]]
   name = "github.com/hkloudou/go-astilectron"
   packages = ["."]
   revision = "c7cab05a9ed17b339e7698cfe59adc67d2ee65f8"
@@ -28,6 +40,12 @@
   ]
   revision = "ddddbe3df8fc4c70868a6070963caa525c5a208f"
   version = "2.0.1"
+
+[[projects]]
+  name = "github.com/jteeuwen/go-bindata"
+  packages = ["."]
+  revision = "bbd0c6e271208dce66d8fda4bc536453cd27fc4a"
+  version = "v3.0.7"
 
 [[projects]]
   name = "github.com/julienschmidt/httprouter"
@@ -77,6 +95,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "1e7820c260dd93c1dc4f2d66325dd02029891c75cdb1475c3a4d6c118195b5d9"
+  inputs-digest = "d5d92417fb49fda182bfd64cd802e92f7674b89f6ccba4ae12d90f795d6e691c"
   solver-name = "gps-cdcl"
   solver-version = 1
