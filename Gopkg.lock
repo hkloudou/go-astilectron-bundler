@@ -31,7 +31,6 @@
   packages = [
     "context",
     "exec",
-    "flag",
     "http",
     "io",
     "os",
@@ -43,8 +42,30 @@
   revision = "32f99dacc749b6bea68cfff5840420fcec1ff573"
 
 [[projects]]
+  name = "github.com/hkloudou/go-astilectron"
+  packages = ["."]
+  revision = "37d31411a192226f3947b5805d47ab02acaccd74"
+  version = "v0.5.0"
+
+[[projects]]
   branch = "master"
-  name = "github.com/asticode/go-bindata"
+  name = "github.com/hkloudou/go-astilog"
+  packages = ["."]
+  revision = "48409865148a0f397641b786ff35158bba19c48f"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/hkloudou/go-astitools"
+  packages = [
+    "flag",
+    "os",
+    "zip"
+  ]
+  revision = "32f99dacc749b6bea68cfff5840420fcec1ff573"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/hkloudou/go-bindata"
   packages = ["."]
   revision = "a0ff2567cfb70903282db057e799fd826784d41d"
 
@@ -96,6 +117,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "959907b77b492a0c049ef9ca50b693ce8c881b4c05f94ba57044f04b600345da"
+  inputs-digest = "533d39a5576981fa155d01ad6215eedb04382803998e06f7af02b71bc6a5c128"
   solver-name = "gps-cdcl"
   solver-version = 1
